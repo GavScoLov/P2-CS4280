@@ -1,6 +1,7 @@
 Author: Gavin Love
 Project: 2
 Submission Date: April 7th, 2024
+Grade: 88%
 
 Invocation:
  P2 [file]
@@ -19,4 +20,3 @@ BNF:
  J -> *" A .
 
 Notes:
-Challenging Project but very fun when everything started to work together
